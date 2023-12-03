@@ -1,4 +1,4 @@
-<h1>Hello, I'm Andres, an <a href="https://linkedin.com/in/andres-it">IT Professional</a>☺</h1>
+<h1>Hello, I'm Andres, an <a href="https://linkedin.com/in/andres-it">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
